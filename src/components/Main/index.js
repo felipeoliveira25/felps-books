@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const MainContainer = styled.main`
-    background-color: #FFF;
+    background-color: #FAF6F0;
     height: 75vh;
 `
 

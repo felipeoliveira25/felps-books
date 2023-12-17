@@ -19,6 +19,10 @@ const GlobalStyle = createGlobalStyle `
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
   }
+
+  li{
+    list-style: none;
+  }
 `
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

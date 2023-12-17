@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const FooterContainer = styled.footer`
-    background-color: #000;
+    background-color: #183D3D;
     height: 10vh;
 `
 
